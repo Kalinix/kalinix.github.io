@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                :  "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -102,12 +102,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "TTMSPORT"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Líder supremo del servidor Hadorax."
+  location         : ""
   email            :
-  links:
+  links: "https://discord.gg/yfqcVcH96w"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
